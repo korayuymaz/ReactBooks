@@ -2,7 +2,6 @@ import {BooksApiResult} from '../api/lookup';
 import React from 'react';
 
 
-// This has to change
 export function BookList(props) {
     if (props.identifier){
         return (
